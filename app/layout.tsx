@@ -1,3 +1,5 @@
+import './globals.css';
+
 export const metadata = {
   title: 'METAR Command Center',
   description: 'Monitoramento meteorológico em tempo real',
